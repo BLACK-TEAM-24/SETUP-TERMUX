@@ -4,19 +4,9 @@
 
 TERMUX SETUP STORAGES
 
-# installation ⬇️:
+# Tools Command ⬇️:
 
-pkg update 
 
-pkg upgrade
-
-pkg install python
-
-pkg install git
-
-pkg install request
-
-pkg install rich
 
 rm -rf SETUP-TERMUX
 
