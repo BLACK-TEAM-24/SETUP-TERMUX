@@ -18,13 +18,13 @@ pkg install request
 
 pkg install rich
 
-rm -rf 
+rm -rf SETUP-TERMUX
 
-git clone 
+git clone https://github.com/BLACK-TEAM-24/SETUP-TERMUX.git
 
-cd 
+cd SETUP-TERMUX
 
-python 
+python BLACK-Setup.py
 
 Follow my facebook pages ⬇️:
 
